@@ -1,0 +1,30 @@
+{
+  "name": "lorem-chucksum",
+  "version": "1.0.1",
+  "description": "Generates passages of 'lorem ipsum'-like text based on Chuck Norris fun facts. Suitable for use as placeholder copy in web pages, graphics, and more. Works in the browser, NodeJS, and React Native.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [
+	"lorem",
+    "ipsum",
+	"chuck",
+	"norris",
+	"fun",
+	"chucksum",
+    "placeholder",
+    "text",
+    "dummy",
+    "filler"
+  ],
+  "author": "Guus Beltman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guzzter/node-lorem-chucksum.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
